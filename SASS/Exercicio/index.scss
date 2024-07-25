@@ -1,0 +1,11 @@
+$cor-preencher: gray;
+
+@mixin preencher (){
+    color: #ffffff;
+    border: none;
+    background-color: $cor-preencher;
+}
+
+.preencher {
+    @
+}
